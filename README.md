@@ -12,3 +12,4 @@ A lightweight system monitoring tool built with Python for Linux systems. This a
 Libraries Used:
   psutil – for system and process monitoring
   time – for intervals and refresh rate
+  OS- to Interact with the Operateing system 
